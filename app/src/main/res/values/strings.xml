@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AgoraVideoCallApp</string>
+    <string name="enter_room_name">Enter Room Name</string>
+    <string name="connect">Connect</string>
+</resources>
